@@ -54,10 +54,6 @@ button {
     display: block;
     margin: auto;
 }
-
-div {
-    width: 100%;
-    align-items: center;
-    display: inline-block;
-    margin: 0 auto;
-}
+ ul {
+    margin: 10px 50px 20px 50px;
+ }
